@@ -1,0 +1,5 @@
+﻿id,name,gender,date,city,state,emailid,qualification ,stream
+1,Onkar,male,7/31/2020,Mumbai,Maharashtra,onkar@gmail.com,B.E.,COMP
+2,Sohan,male,7/29/2020,Mumbai,Maharashtra,sohan@gmail.com,B.E.,COMP
+3,Priti,male,10/13/2009,Bengaluru,Karnataka,priti@gmail.com,B.Tech,EXTC
+4,Amruta,female,6/26/2014,Nagpur,Maharashtra,amruta@gmail.com,B.Tech,IT
